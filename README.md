@@ -7,7 +7,7 @@ Este repositório contém todos os cases desenvolvidos em todas as disciplinas c
 2. Conteúdo resumido da disciplina
 3. Cases desenvolvidos
 
-Fique a vontade para obter conhecimento, colaborar, ou me contactar pelo e-mail fabmasouza@hotmail.com,
+Fique a vontade para obter conhecimento, colaborar, ou me contactar pelo e-mail scudeller.lemos@gmail.com,
 
 ## Sobre o MBA
 Durante o MBA em Data Science and Artificial Intelligence, me preparei para:
@@ -44,18 +44,16 @@ E ainda tive a oportunidade de conhecer o me aprofundar nos seguintes frameworks
 7. Trifacta ![Trifacta](https://img.shields.io/badge/Trifacta-Data_Preparation-blue?style=flat-square&logo=trifacta)
 8. Bases NoSQL (Redis, Cassandra, MongoDB e Neo4j) ![NoSQL](https://img.shields.io/badge/NoSQL-Databases-green?style=flat-square&logo=database)
 9. Bases Relacionais (Oracle, SQLServer) ![Relational](https://img.shields.io/badge/Relational-Databases-blue?style=flat-square&logo=database)
-10. Databricks ![Databricks](https://img.shields.io/badge/Databricks-Analytics-blue?style=flat-square&logo=databricks)
-11. DataRobot ![DataRobot](https://img.shields.io/badge/DataRobot-Automated_ML-blue?style=flat-square&logo=robot)
-12. RapidMiner ![RapidMiner](https://img.shields.io/badge/RapidMiner-Data_Science-orange?style=flat-square&logo=rapidminer)
-13. H2O.io ![H2O.io](https://img.shields.io/badge/H2O.io-Machine_Learning-blue?style=flat-square&logo=h2o)
-14. Google Colab (Keras, TensorFlow, OpenAI Gym e Scikit-learn) ![Google Colab](https://img.shields.io/badge/Google_Colab-Notebooks-orange?style=flat-square&logo=googlecolab)
-15. Principais Plataformas Cognitivas (AWS, Azure, Google) ![Cloud Platforms](https://img.shields.io/badge/Cloud_Platforms-Cloud-blue?style=flat-square&logo=cloud)
-16. Microsoft Excel ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-Spreadsheet-blue?style=flat-square&logo=microsoftexcel)
-17. Ferramentas de BI (PowerBI, Tableau) ![BI Tools](https://img.shields.io/badge/BI_Tools-Business_Intelligence-blue?style=flat-square&logo=businessintelligence)
-18. ChatGPT & Gemini ![ChatGPT & Gemini](https://img.shields.io/badge/ChatGPT_&_Gemini-NLP-blue?style=flat-square&logo=ai)
-19. DALL-E by OpenAI & Midjorney ![DALL-E & Midjorney](https://img.shields.io/badge/DALL_E_&_Midjorney-Generative_AI-blue?style=flat-square&logo=openai)
-20. Embeddings ![Embeddings](https://img.shields.io/badge/Embeddings-NLP-green?style=flat-square&logo=ai)
-21. LangChain ![LangChain](https://img.shields.io/badge/LangChain-NLP-green?style=flat-square&logo=ai)
+10. DataRobot ![DataRobot](https://img.shields.io/badge/DataRobot-Automated_ML-blue?style=flat-square&logo=robot)
+11. RapidMiner ![RapidMiner](https://img.shields.io/badge/RapidMiner-Data_Science-orange?style=flat-square&logo=rapidminer)
+12. H2O.io ![H2O.io](https://img.shields.io/badge/H2O.io-Machine_Learning-blue?style=flat-square&logo=h2o)
+13. Google Colab (Keras, TensorFlow, OpenAI Gym e Scikit-learn) ![Google Colab](https://img.shields.io/badge/Google_Colab-Notebooks-orange?style=flat-square&logo=googlecolab)
+14. Principais Plataformas Cognitivas (AWS, Azure, Google) ![Cloud Platforms](https://img.shields.io/badge/Cloud_Platforms-Cloud-blue?style=flat-square&logo=cloud)
+15. Microsoft Excel ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-Spreadsheet-blue?style=flat-square&logo=microsoftexcel)
+16. Ferramentas de BI (PowerBI, Tableau) ![BI Tools](https://img.shields.io/badge/BI_Tools-Business_Intelligence-blue?style=flat-square&logo=businessintelligence)
+17. ChatGPT & Gemini ![ChatGPT & Gemini](https://img.shields.io/badge/ChatGPT_&_Gemini-NLP-blue?style=flat-square&logo=ai)
+18. DALL-E by OpenAI & Midjorney ![DALL-E & Midjorney](https://img.shields.io/badge/DALL_E_&_Midjorney-Generative_AI-blue?style=flat-square&logo=openai)
+19. Embeddings ![Embeddings](https://img.shields.io/badge/Embeddings-NLP-green?style=flat-square&logo=ai)
 
 ## Conteúdo do MBA
 O MBA foi composto pelas seguintes disciplinas
@@ -78,7 +76,6 @@ O MBA foi composto pelas seguintes disciplinas
 ### Módulo 4: Applied Artificial Intelligence (84 horas/aula)
 - Natural Language Processing
 - Audio Recognition Workshop
-- Robotics and IOT
 - Computer Vision
 - Recommendations Systems
 
