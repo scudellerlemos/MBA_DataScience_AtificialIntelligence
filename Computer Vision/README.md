@@ -76,7 +76,7 @@ Detecção de vivacidade (liveness) para evitar que um fraudador utilize uma fot
 
 ![Foto usada para treino do modelo](./Case%20Quantum%20Finance/photo2.jpg)
 
-3. `photo3.jpg` - Foto usada para treino do modelo
+3. `photo3.jpg` - Foto usada para teste do modelo
 
 ![Foto usada para treino do modelo](./Case%20Quantum%20Finance/photo3.jpg)
 
